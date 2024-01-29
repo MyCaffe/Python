@@ -1,2 +1,2 @@
 # Python
-Python based project (usually using PyTorch)
+Python based projects (usually using PyTorch)
